@@ -1,0 +1,15 @@
+./res
+./src
+./src/common
+./src/component
+./src/dao
+./src/entity
+./src/route
+./src/service
+./src/app.py
+./src/run.py
+./test
+./main.py
+./pyproject.toml
+./Dockerfile.base
+./Dockerfile.build
