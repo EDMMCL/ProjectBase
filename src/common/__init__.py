@@ -1,0 +1,1 @@
+print('This is a moudle which named common.')
